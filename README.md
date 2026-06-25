@@ -179,4 +179,4 @@ docker run -p 7860:7860 --env-file .env my-ai-api
 
 ## Author
 
-Built mariem abidi
+Built by mariem abidi
