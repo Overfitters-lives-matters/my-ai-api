@@ -1,0 +1,41 @@
+ARTIFICIAL INTELLIGENCE
+Artificial Intelligence is a field of computer science focused on building systems that can perform tasks that normally require human intelligence such as reasoning, learning, and decision making.
+
+MACHINE LEARNING
+Machine Learning is a subset of AI where models learn patterns from data instead of being explicitly programmed.
+
+DEEP LEARNING
+Deep Learning uses neural networks with multiple layers to learn complex patterns in large datasets.
+
+NATURAL LANGUAGE PROCESSING
+NLP is a field that allows computers to understand, interpret, and generate human language.
+
+RAG (RETRIEVAL AUGMENTED GENERATION)
+RAG combines information retrieval with language models. It retrieves relevant documents from a database and uses them to generate more accurate responses.
+
+VECTOR DATABASES
+Vector databases store embeddings (numerical representations of text) and allow similarity search based on meaning rather than keywords.
+
+EMBEDDINGS
+Embeddings are numerical vectors that represent text in a way that captures semantic meaning.
+
+AGENT SYSTEMS
+AI agents are systems where language models can use tools (like search, calculators, or APIs) in a loop to complete tasks.
+
+FASTAPI
+FastAPI is a modern Python framework used to build fast and scalable APIs.
+
+DOCKER
+Docker is a tool used to package applications and their dependencies into containers so they can run anywhere.
+
+HUGGING FACE
+Hugging Face is a platform that provides AI models, datasets, and tools for machine learning and NLP.
+
+WEB SEARCH AGENTS
+Web search agents are AI systems that can browse the internet, collect information, and use it to improve responses.
+
+AUTONOMOUS SYSTEMS
+Autonomous AI systems can perform multi-step tasks with minimal human intervention by planning and executing actions.
+
+DATA SCIENCE
+Data Science involves extracting insights from data using statistics, machine learning, and visualization techniques.
